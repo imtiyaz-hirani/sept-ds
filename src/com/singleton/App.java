@@ -28,7 +28,7 @@ public class App {
 			}
 		};
 		t2.start();
-		
+		//https://github.com/imtiyaz-hirani/sept-ds
 		 
 		/* System.out.println(Thread.currentThread().getName());
 		 * Java always starts a default thread called as main thread. 
